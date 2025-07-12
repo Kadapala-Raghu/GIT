@@ -5,3 +5,9 @@
 * It is platform independent
 * It is free and open-source
 * 3rd generation of VCS
+
+We are using bastion as our EKS client, so it will have
+* K9S
+* kubectl
+* helm
+* aws configure
